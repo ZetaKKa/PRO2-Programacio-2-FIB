@@ -278,9 +278,9 @@ int main ()
         //informacio
         else if (comando == "informacio" or comando == "info") {
             cout << '#' << comando << ' ' << endl;
-            cout << "Autor: Maksym Plashkin Ksenyuk" << endl;
-            cout << "Curs: 2n BATX" << endl;
-            cout << "Data: 13/12/2021" << endl;
+            cout << "Autor: " << endl;
+            cout << "Curs: " << endl;
+            cout << "Data: 1" << endl;
         }
         
         //nuevo_mensaje
