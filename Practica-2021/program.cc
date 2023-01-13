@@ -1,6 +1,6 @@
 //Programa principal per ENCRIPTAR MISSATGES
 
-
+  
 //llibreria estandard
 #include <iostream>
 //llibreria pels missatges
